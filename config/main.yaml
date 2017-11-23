@@ -35,6 +35,9 @@ main:
     yaml: 6
     yml: 6
     txt: 1
+    env: 6
+    erb: 6
+    sql: 6
   excluded_extensions:
     - .png
     - .jpg
